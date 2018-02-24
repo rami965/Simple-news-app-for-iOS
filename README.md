@@ -2,8 +2,8 @@
 
 <h2>This is a simple news app made for iOS using Swift 4 - Xcode 9:</h2>
  <ul>
-  <li>Networking done using Alamofire</li>
-  <li>Loading indicator is SwiftSpinner</li>
+  <li>Networking done using <a href="https://github.com/Alamofire/Alamofire">Alamofire</a></li>
+  <li>Loading indicator is <a href="https://github.com/icanzilb/SwiftSpinner">SwiftSpinner</a></li>
 </ul>
 
 <h2>Features:</h2>
